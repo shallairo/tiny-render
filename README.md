@@ -4,11 +4,13 @@
 最后实现了初步的shadow mapping和纹理贴图，尝试了从切线空间导入纹理信息，对TBN矩阵构建进行修正，正确的方法应该是需要正交化！！！
 
 falt sahding
+
 ![flat](flat1.png)![flat](flat2.png) 
 
 vetex shading
 
 ![vetex](vetex1.png) ![vetex](vetex1.png)
+
 phone shading
 
 ![phone](phone1.png) ![phone](phone2.png)
